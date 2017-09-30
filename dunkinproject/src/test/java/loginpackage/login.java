@@ -14,6 +14,7 @@ String a=driver.getTitle();
 log.debug("Facebook Title is printed");
 System.out.println(a);
 System.out.println("welcome");
+		System.out.println("welcome");
 driver.close();
 
 }
